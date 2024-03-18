@@ -137,6 +137,20 @@ main strong {
     font-weight: bolder;
 }
 
+#js {
+    display: block;
+    margin: 20px auto ;
+    width: 250px;
+    height: 150px;
+}
+
+#htmlCss {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    height: 200px;
+}
+
 main a {
     text-decoration: none;
     background-color: var(--cor1);
@@ -183,7 +197,7 @@ aside > ul{
 
 #video{
     background-color: var(--cor5);
-    margin: 0px -20px 30px -20px;
+    margin: 20px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 56%;
     position: relative;
